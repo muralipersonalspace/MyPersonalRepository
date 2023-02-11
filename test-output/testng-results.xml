@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140" started-at="2023-02-08T08:00:45Z" finished-at="2023-02-08T08:00:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140" started-at="2023-02-08T08:00:45Z" finished-at="2023-02-08T08:00:46Z">
+      <class name="org.mur.AnnotationsTest">
+        <test-method status="PASS" signature="Login()[pri:-20, instance:org.mur.AnnotationsTest@64bfbc86]" name="Login" duration-ms="32" started-at="2023-02-08T08:00:45Z" finished-at="2023-02-08T08:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="SearchHotel()[pri:-10, instance:org.mur.AnnotationsTest@64bfbc86]" name="SearchHotel" duration-ms="0" started-at="2023-02-08T08:00:46Z" finished-at="2023-02-08T08:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchHotel -->
+        <test-method status="PASS" signature="BookHotel()[pri:10, instance:org.mur.AnnotationsTest@64bfbc86]" name="BookHotel" duration-ms="0" started-at="2023-02-08T08:00:46Z" finished-at="2023-02-08T08:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookHotel -->
+        <test-method status="PASS" signature="BookingConfirmation()[pri:20, instance:org.mur.AnnotationsTest@64bfbc86]" name="BookingConfirmation" duration-ms="15" started-at="2023-02-08T08:00:46Z" finished-at="2023-02-08T08:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingConfirmation -->
+      </class> <!-- org.mur.AnnotationsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
